@@ -1,0 +1,6 @@
+config BR2_PACKAGE_ETD_THERM
+	bool "etd_therm"
+	help
+	  ETD Thermostat package.
+
+	  http://etuxdroid.tech

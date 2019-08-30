@@ -1846,6 +1846,7 @@ menu "Miscellaneous"
 	source "package/taskd/Config.in"
 	source "package/wine/Config.in"
 	source "package/xutil_util-macros/Config.in"
+	source "package/etd_therm/Config.in"
 endmenu
 
 menu "Networking applications"
